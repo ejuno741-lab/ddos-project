@@ -1,0 +1,15 @@
+{
+"features": [
+"flow_duration", 
+"total_fwd_packets",
+"total_bwd_packets",
+"packets_per_sec",
+"bytes_per_sec",
+"avg_packet_size",
+"syn_flag_count",
+"ack_flag_count",
+"src_ip_entropy",
+"protocol"
+],
+"label": {"0": "normal", "1": "attack"}
+}
